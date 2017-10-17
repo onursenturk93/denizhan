@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <button id="1">
+    <name>Google</name>
+    <address>https:www.google.com</address>
+  </button>
+  <button id="1">
+    <name>Twitter</name>
+    <address>https:www.twitter.com</address>
+  </button>
+  <button id="2">
+    <name>Facebook</name>
+    <address>https:www.facebook.com</address>
+  </button>
+  <button id="3">
+    <name>Youtube</name>
+    <address>https://www.youtube.com</address>
+  </button>
+  <button id="4">
+    <name>Gmail</name>
+    <address>https://mail.google.com</address>
+  </button>
+  <button id="5">
+    <name>Twitch</name>
+    <address>https:www.twitch.tv</address>
+  </button>
+  <button id="6">
+    <name>Unity</name>
+    <address>https://docs.unity3d.com/Manual/index.html</address>
+  </button>
+  <button id="7">
+    <name>Trello</name>
+    <address>https://trello.com/</address>
+  </button>
+  <button id="8">
+    <name>Galatasaray</name>
+    <address>http://www.galatasaray.org/anasayfa</address>
+  </button>
+  <button id="9">
+    <name>Fenerbahçe</name>
+    <address>http://www.fenerbahce.org/</address>
+  </button>
+ 
+</root>
